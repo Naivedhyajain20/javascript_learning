@@ -1,1 +1,1 @@
-console.log("aur madarchod kaisa")
+const accountid = 123455
