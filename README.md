@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
