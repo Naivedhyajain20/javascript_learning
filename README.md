@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0011-container-with-most-water) |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1344-angle-between-hands-of-a-clock) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
