@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0001-two-sum) |
+| [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,10 +23,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -34,6 +37,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -42,6 +46,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -63,4 +68,8 @@
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0275-h-index-ii) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
