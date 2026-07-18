@@ -11,6 +11,7 @@
 | [0275-h-index-ii](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0275-h-index-ii) |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
