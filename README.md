@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0009-palindrome-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
