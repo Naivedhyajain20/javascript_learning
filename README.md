@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0014-longest-common-prefix) |
 | [0275-h-index-ii](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0275-h-index-ii) |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1929-concatenation-of-array) |
@@ -74,9 +75,14 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
