@@ -13,6 +13,7 @@
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Naivedhyajain20/javascript_learning/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0009-palindrome-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Naivedhyajain20/javascript_learning/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
