@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0275-h-index-ii](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0275-h-index-ii) |
 | [0912-sort-an-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1929-concatenation-of-array) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
