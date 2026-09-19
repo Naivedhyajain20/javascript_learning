@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0067-add-binary) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Naivedhyajain20/javascript_learning/tree/master/3875-construct-uniform-parity-array-i) |
@@ -71,6 +72,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Naivedhyajain20/javascript_learning/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0067-add-binary) |
 | [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
