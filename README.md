@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
@@ -85,6 +86,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Naivedhyajain20/javascript_learning/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
